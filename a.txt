@@ -1,3 +1,9 @@
 hello 
 i m Sudipta
+<<<<<<< HEAD
 its Mondayits tuesday
+=======
+its Monday
+good
+its 1st monday of august
+>>>>>>> c568406a2bccb273c76fa9d0ca26257fc81f8884
